@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\work5_004\work5_004\bin\Debug\work5_004.exe.config
+C:\Users\PC\source\repos\work5_004\work5_004\bin\Debug\work5_004.exe
+C:\Users\PC\source\repos\work5_004\work5_004\bin\Debug\work5_004.pdb
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.Form1.resources
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.Properties.Resources.resources
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.exe
+C:\Users\PC\source\repos\work5_004\work5_004\obj\Debug\work5_004.pdb
